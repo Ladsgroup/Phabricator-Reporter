@@ -2,7 +2,7 @@
 require_once 'header.php';
 // Configuration
 $domain = 'https://phabricator.wikimedia.org';
-$token = 'api-arjipessis2bduj3dfjycabnorrq';
+$token = '<redacted>';
 $suggestedProjects = [
 	'RL Module Terminators Trailblazing',
 	'wikidata-campsite-iteration-∞',
